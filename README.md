@@ -7,6 +7,7 @@ Recipes we have cooked, liked, and want to make again.
 | Recipe | Method | Time | Serves |
 | --- | --- | --- | --- |
 | [Bacon and Cheese Smothered Chicken Thighs](recipes/blackstone-smothered-chicken-thighs.md) | Blackstone griddle (oven variant included) | 30 min | 6 |
+| [Keto Balsamic Vinaigrette](recipes/keto-balsamic-vinaigrette.md) | No cook, shake in a jar | 5 min | 6 |
 | [Keto Burger Sauce](recipes/keto-burger-sauce.md) | No cook, mix and chill | 5 min plus 30 min chill | 8 |
 
 ## Adding a recipe
