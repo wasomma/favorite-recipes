@@ -23,8 +23,7 @@ Chicken thighs simmered in a coconut curry sauce with burst cherry tomatoes. A b
 - 3 to 4 tbsp Patak's curry paste (or the spice mix below)
 - 1 1/2 pints cherry tomatoes (about 3 cups), halved
 - 1 can (13.66 oz) unsweetened coconut milk
-- 1/2 cup coconut milk from the carton
-- 3/4 cup chicken broth
+- 1 1/4 cups chicken broth
 - 1 tbsp lime juice
 - Pinch of garam masala to finish
 - Salt to taste
@@ -48,7 +47,7 @@ Chicken thighs simmered in a coconut curry sauce with burst cherry tomatoes. A b
 3. **Soften the onions.** Lower the heat to medium. Cook the onions in the same pot until soft, 6 to 8 minutes, scraping up the browned bits.
 4. **Bloom the curry.** Add the garlic, ginger, and curry paste or spice mix. Stir for 1 minute until it smells toasty.
 5. **Burst the tomatoes.** Add the tomatoes and cook about 5 minutes, pressing them with the spoon so they burst.
-6. **Simmer.** Pour in the canned coconut milk, the carton coconut milk, and the broth. Return the chicken and its juices. Simmer uncovered for 25 to 30 minutes, stirring now and then, until the sauce thickens.
+6. **Simmer.** Pour in the coconut milk and the broth. Return the chicken and its juices. Simmer uncovered for 25 to 30 minutes, stirring now and then, until the sauce thickens.
 7. **Finish.** Stir in the lime juice and a pinch of garam masala. Taste and add salt. Serve over rice with a spoon of sour cream.
 
 ## Notes
