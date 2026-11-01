@@ -6,6 +6,7 @@ Recipes we have cooked, liked, and want to make again.
 
 | Recipe | Method | Time | Serves |
 | --- | --- | --- | --- |
+| [Almond Butter Chicken Skewers](recipes/almond-butter-chicken-skewers.md) | Blackstone griddle (air fryer variant included) | 2 hr marinate plus 15 min | 6 |
 | [Bacon and Cheese Smothered Chicken Thighs](recipes/blackstone-smothered-chicken-thighs.md) | Blackstone griddle (oven variant included) | 30 min | 6 |
 | [Coconut Curry Chicken](recipes/coconut-curry-chicken.md) | Induction stovetop, one pot | 50 min | 6 |
 | [Kelp-Cured Salmon (Kobujime)](recipes/kelp-cured-salmon.md) | No cook, salt then cure in kelp in the fridge | 1 hr salting plus 2 to 3 days cure | 6 |
