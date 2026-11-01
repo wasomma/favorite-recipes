@@ -11,6 +11,7 @@ Recipes we have cooked, liked, and want to make again.
 | [Kelp-Cured Salmon (Kobujime)](recipes/kelp-cured-salmon.md) | No cook, salt then cure in kelp in the fridge | 1 hr salting plus 2 to 3 days cure | 6 |
 | [Keto Balsamic Vinaigrette](recipes/keto-balsamic-vinaigrette.md) | No cook, shake in a jar | 5 min | 6 |
 | [Keto Burger Sauce](recipes/keto-burger-sauce.md) | No cook, mix and chill | 5 min plus 30 min chill | 8 |
+| [Kimchi Chicken Fried Rice](recipes/kimchi-chicken-fried-rice.md) | Blackstone griddle | 30 min marinate plus 1 hr | 6 |
 
 ## Adding a recipe
 
